@@ -1,0 +1,13 @@
+.create-account {
+    text-align: center;
+    margin-top: 50px;
+}
+
+.create-account h1 {
+    font-size: 24px;
+    margin-bottom: 20px;
+}
+
+.create-account p {
+    font-size: 16px;
+}
